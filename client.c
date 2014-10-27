@@ -1,6 +1,6 @@
 #include"networkhdr.h"
 //#define MYPORT 3000//listening to this port
-#define DESTPORT 4950 
+#define DESTPORT 3490 
 //#define IPADDR "192.168.1.5"
 //#define IPADDR "127.0.0.1"
 #define DATA_SIZE 10000

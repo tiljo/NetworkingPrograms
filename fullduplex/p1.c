@@ -13,7 +13,6 @@ int main(int argc, char *argv[])
 	fd_set master;
 	fd_set read_fds;
 	struct sockaddr_in myaddr;
-//	struct sockaddr_in remoteaddr;
 	struct sockaddr_in destaddr;
 	int fdmax;
 	int listener;
